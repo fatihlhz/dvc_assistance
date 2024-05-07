@@ -1,16 +1,11 @@
 # dvc_assistance
 
-A new Flutter project.
+Is a simple app that helps you to track your dragon personality in Dragon Village Collection game!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can add your dragon card by pushing the floating (+) button, select the dragon you wan't to personalized, based personality, and targeted personality. Then click add and there you go! 
 
-A few resources to get you started if this is your first Flutter project:
+Everytime you train your dragon, you can change the stat by click the chevron button in the card header, select between 3, 5, or 9 for the stat value, then click the "+ stat name" button to add the value!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If the "stat gap" indicator colored red, it means that you need to add your stat beyond that value. If it colored blue, the you need to add the stat fixed to that value, if you add it more the other stat gap will increase (This feature is exclusively tied if you select either capable or dull as the targeted personality, because they have fixed value).
